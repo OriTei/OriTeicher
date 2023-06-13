@@ -1,7 +1,7 @@
 # 🌐💻 About me 💻🌐
 Currently working on some projects with React and TypeScript <br>
 checkout my Trello clone: <br> 
-## [https://jello-i4lp.onrender.com](https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085) <br><br> https://github.com/OriTeicherr - my contributor user for this project
+##App demo: [https://jello-i4lp.onrender.com](https://jello-i4lp.onrender.com/#/board/642bfd4ba630b6e9a10f9085) <br><br> https://github.com/OriTeicherr - my contributor user for this project
 <img src="https://github.com/OriTeicher/OriTeicher/assets/119428349/eee60d7c-4e8e-4338-8e79-2fb78affa0d7" alt="Board" width="700" height="300">
 
 ## 🖥️ My tech skills:
